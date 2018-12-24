@@ -28,6 +28,6 @@ system_header = {
 Hm_下标识，表示当前时间，lvt 标识刷新次数，每次刷新都会记录时间戳，我用当前时间表示
 """
 system_cookie = dict(FROM_TYPE="weixin",
-              wechatSESS_ID="683f7b19439bdf64e8bbbe39ed618402",
+              wechatSESS_ID="683f7b19439bdf64e8aaae39ed618402",
 			  Hm_lvt_7838cef374eb966ae9ff502c68d6f098=str(int(time.time())),
 			  Hm_lpvt_7838cef374eb966ae9ff502c68d6f098=str(int(time.time())))
