@@ -14,7 +14,7 @@ from utils import system_header,system_cookie
 """
 微信统一标识：WeChatSession_ID，功能请详细阅读utils.py 
 """
-WeChatSession_ID = "683f7b19439bdf64e8bbbe39ed618402"
+WeChatSession_ID = "683f7b19439bdf64e8aaae39ed618402"
 
 """
 尝试携带Cookies 登录来选座系统（试水）
