@@ -4,7 +4,7 @@
 
 1.目录结构： Project
 <pre>
-            |
+       
             |-------：主程序 laixuanzuo.py
             |
             |-------: 座位信息 seat_info.py
