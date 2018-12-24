@@ -2,7 +2,8 @@
 
 配置讲解：
 
-1.目录结构： Project    
+1.目录结构： Project
+<pre>
             |
             |-------：主程序 laixuanzuo.py
             |
@@ -13,6 +14,7 @@
             |-------: 工具函数 utils.py
             |
             |-------: README.md 本文件（首先阅读）
+</pre>
             
 重要说明：
  
